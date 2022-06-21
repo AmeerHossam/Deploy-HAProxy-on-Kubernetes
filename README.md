@@ -273,4 +273,5 @@ Check the minikube IP to access on the browser
 amir@amir-Alienware-x15-R1:~/K8SminiProject$ minikube ip
 192.168.49.2
 ```
-[Screenshot][./Page.png]
+
+![Screenshot](Page.png)
